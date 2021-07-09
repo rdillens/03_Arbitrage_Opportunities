@@ -19,7 +19,7 @@ git clone https://github.com/rdillens/03_Arbitrage_Opportunities.git
 ```
 Then, to run the app type:
 ```
-cd 03_Arbitrage_Opportunities.git
+cd 03_Arbitrage_Opportunities
 jupyter lab
 ```
 **Note: You must install Jupyter Lab in your Conda environment in order to run this program.**

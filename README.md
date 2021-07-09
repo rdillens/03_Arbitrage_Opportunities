@@ -31,7 +31,8 @@ See the [Jupyter Lab Installation Guide](https://jupyterlab.readthedocs.io/en/st
 
 ---
 ## Contributors
-Starter code was given in the Module 3 Challenge in the Rice FinTech Bootcamp and all modifications were made by Remy Dillenseger.
+Starter code was given in the Module 3 Challenge in the Rice FinTech Bootcamp and all modifications were made by Remy Dillenseger. 
+
 ---
 ## License
 This project is not licensed for use by anyone other than the author, Remy Dillenseger, and the faculty/staff of Rice FinTech Bootcamp for the purpose of the course.

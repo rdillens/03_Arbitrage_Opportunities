@@ -29,9 +29,11 @@ See the [Jupyter Lab Installation Guide](https://jupyterlab.readthedocs.io/en/st
 ---
 ## Examples
  ![cumsum](/Images/cumsum.png)
+
 ---
 ## Usage
 This program anaylzes historical data for Bitcoin trading prices from January 01, 2018 to March 31, 2018 on two trading platforms, Bitstamp and Coinbase. The program will determine the value of any arbitrage opportunities that exist on three different dates chosen from the dataset. The data is analyzed and graphed to show the prices and also plot the cumulative sum of arbitrage profits is plotted.
+
 ---
 ## Contributors
 Starter code was given in the Module 3 Challenge in the Rice FinTech Bootcamp and all modifications were made by Remy Dillenseger. 

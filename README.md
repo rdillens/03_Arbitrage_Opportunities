@@ -28,11 +28,11 @@ See the [Jupyter Lab Installation Guide](https://jupyterlab.readthedocs.io/en/st
 
 ---
 ## Examples
- ![cumsum](/Images/close_prices.png)
- ![cumsum](/Images/close_prices_early.png)
- ![cumsum](/Images/arbitrage_spread_early.png)
- ![cumsum](/Images/arbitrage_profits_early.png)
- ![cumsum](/Images/cumsum.png)
+ ![close prices](Images/close_prices.png)
+ ![early close prices](Images/close_prices_early.png)
+ ![early arbitrage spread](Images/arbitrage_spread_early.png)
+ ![early arbitrage profits](Images/arbitrage_profits_early.png)
+ ![cumulative sum](Images/cumsum.png)
 
 ---
 ## Usage

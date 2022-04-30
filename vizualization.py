@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 plot_height = 4
 plot_width = 20
 
-
 def main_plotter(
     df, 
     range_slider, 
@@ -33,7 +32,6 @@ def main_plotter(
     if bitstamp_checkbox or coinbase_checkbox:
         ax.legend()
     ax.set_title("Arbitrage")
-
 
 def day_plotter(df, date_picker):
     fig, ax = plt.subplots(figsize=(int(round(plot_width/2, 0)), plot_height-1))

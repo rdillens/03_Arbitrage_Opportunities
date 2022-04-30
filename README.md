@@ -1,15 +1,5 @@
-# Arbitrage_Opportunities
-Analyze Bitcoin historical data from Bitstamp and Coinbase to find potential arbitrage opportunities.
-
----
-## Technologies
-Code is written using Python version 3.7 and runs a Jupyter Lab notebook. The following libraries are required to run the app:
- ```python
-import pandas as pd
-from pathlib import Path
-
-%matplotlib inline
-```
+# Arbitrage Opportunities
+An app that analyzes Bitcoin historical data from Bitstamp and Coinbase to find potential arbitrage opportunities and displays an interactive graph to visualize the data.
 
 ---
 ## Installation Guide
@@ -28,20 +18,20 @@ See the [Jupyter Lab Installation Guide](https://jupyterlab.readthedocs.io/en/st
 
 ---
 ## Examples
- ![close prices](Images/close_prices.png)
- ![early close prices](Images/close_prices_early.png)
+ ![close prices](Images/crypto_arbitrage.gif)
+ <!-- ![early close prices](Images/close_prices_early.png)
  ![early arbitrage spread](Images/arbitrage_spread_early.png)
  ![early arbitrage profits](Images/arbitrage_profits_early.png)
- ![cumulative sum](Images/cumsum.png)
+ ![cumulative sum](Images/cumsum.png) -->
 
 ---
 ## Usage
-This program anaylzes historical data for Bitcoin trading prices from January 01, 2018 to March 31, 2018 on two trading platforms, Bitstamp and Coinbase. The program will determine the value of any arbitrage opportunities that exist on three different dates chosen from the dataset. The data is analyzed and graphed to show the prices and, finally, plot the cumulative sum of arbitrage profits.
+This program anaylzes historical data for Bitcoin trading prices from January 01, 2018 to March 31, 2018 on two trading platforms, Bitstamp and Coinbase. The program will determine the value of any arbitrage opportunities that exist on three different dates chosen from the dataset. The data is analyzed and graphed to show the prices.
 
 ---
 ## Contributors
-Starter code was given in the Module 3 Challenge in the Rice FinTech Bootcamp and all modifications were made by Remy Dillenseger. 
+This app is brought to you by [Remy Dillenseger](http://remyd.net).
 
 ---
 ## License
-This project is not licensed for use by anyone other than the author, Remy Dillenseger, and the faculty/staff of Rice FinTech Bootcamp for the purpose of the course.
+This project is not licensed for use by anyone other than the author, Remy Dillenseger.
